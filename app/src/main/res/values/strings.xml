@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPrefarance</string>
+
+    <string name="shared_prefarance">Shared Prefarance</string>
+    <string name="shared_prefarance_value">Shared Prefarance Value</string>
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="age">age</string>
+</resources>
